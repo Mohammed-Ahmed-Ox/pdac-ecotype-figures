@@ -1,6 +1,5 @@
-#!/usr/bin/env Rscript
-# ============================================================================
-# generate_example_data.R
+
+# data/generate_example_data.R
 # ----------------------------------------------------------------------------
 # Builds a small SYNTHETIC patient-similarity dataset that mirrors the
 # structure of the real network object used by the figure scripts, so the
